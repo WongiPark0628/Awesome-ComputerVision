@@ -48,6 +48,10 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 |2022|ConvNeXt : A ConvNet for the 2020s|[PDF](https://arxiv.org/pdf/2201.03545.pdf)| [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/kalelpark/review-a-convnet-for-the-2020s) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/ConvNeXt)|
 |2023|ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders|[PDF](https://arxiv.org/pdf/2301.00808.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/ConvNeXt-V2)|
 
+|2024|[AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d4eaf042567f1c03c086103cc154c1f-Abstract-Conference.html) (NeurIPS 2024)|[PDF](https://arxiv.org/abs/2407.04603)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MCG-NJU/AWT)|
+|2026|[Efficient Test-Time Prompt Tuning for Vision-Language Models](https://link.springer.com/article/10.1007/s11263-026-03019-3) (IJCV 2026)|[PDF](https://arxiv.org/abs/2408.05775)|—|
+|2026|[FreeRet: MLLMs as Training-Free Retrievers](https://proceedings.mlr.press/v306/zhu26ba.html) (ICML 2026)|[PDF](https://arxiv.org/abs/2509.24621)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MCG-NJU/FreeRet)|
+
 ## Object Detection
 
 |Year|Name|Arxiv|CODE|
